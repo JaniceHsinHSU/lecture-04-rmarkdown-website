@@ -1,3 +1,9 @@
+---
+output:
+  html_document:
+    theme: darkly
+---
+
 # This is another one!
 
 This #TidyTuesday plot originally by Daniel Vaisanen is gorgeous! 🌸
